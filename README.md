@@ -11,9 +11,9 @@ This package is a plugin of [Laravel DataTables](https://github.com/yajra/larave
 
 ## Requirements
 
-- [PHP >=7.0](http://php.net/)
+- [PHP >=7.2](http://php.net/)
 - [Laravel 5.4+](https://github.com/laravel/framework)
-- [Laravel DataTables v8.x](https://github.com/yajra/laravel-datatables)
+- [Laravel DataTables v9.x](https://github.com/yajra/laravel-datatables)
 
 ## Documentations
 
